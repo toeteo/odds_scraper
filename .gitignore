@@ -1,0 +1,9 @@
+__pycache__
+env
+other
+resources
+info.py
+test_db.py
+db_test.py
+cookies.json
+odds.db
